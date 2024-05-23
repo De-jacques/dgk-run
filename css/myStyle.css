@@ -1,0 +1,41 @@
+body{
+    background-color: #1a2737 !important; 
+    color: white !important;
+}
+.skills{
+    font-size: 60px;
+}
+
+.logo{
+    height: 250px;
+}
+
+.degeek_mindset{
+    font-size: 25px;
+}
+
+ul.degeek_mindset{
+    list-style-type: none;
+}
+
+
+.degeek_thematic{
+    color: #f4cf45;
+    font-weight: 700;
+}
+.icon_style{
+    height: 25px;
+    margin-right: 20px;
+}
+ul.social_media li{
+  display: inline;
+  padding: 10px;
+  cursor: pointer;
+}
+.fa-facebook:hover{
+    color: blue;
+}
+
+/* i.style_icon{
+    background-color: red;
+} */
